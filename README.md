@@ -62,7 +62,9 @@ Calling `Configure<Type>()` is optional and AutoCompare will default to comparin
 
 Please note that you must call `Configure<Type>()` only once per type, and call it before any call to `Compare<Type>()` is made or it will throw an exception.
 
-More examples can be found in AutoCompare.Tests
+More examples can be found in AutoCompare.Tests 
+
+Note: This library is ported from [AutoCompare](https://www.nuget.org/packages/AutoCompare/)
 
 Licence
 -------
