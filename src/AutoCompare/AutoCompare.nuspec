@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AutoCompare.Core</id>
+    <version>1.0.0</version>
+    <authors>Anand Patel</authors>
+    <owners>apatel</owners>
+    <licenseUrl>https://github.com/StevenGilligan/AutoCompare/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/StevenGilligan/AutoCompare</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AutoCompare is a simple library with the goal of making it effortless to compare two objects of the same type to generate the list of modified properties.</description>
+    <copyright>Copyright 2017 other contributors under the Apache 2.0 license.</copyright>
+    <language>en-CA</language>
+    <tags>autocompare comparer comparison object diff</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="bin\Release\netstandard1.6\AutoCompare.dll" target="lib\netstandard1.6\AutoCompare.dll" />
+  </files>
+</package>
