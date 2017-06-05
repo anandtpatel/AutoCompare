@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ay77ykijskpiuiy8?svg=true)](https://ci.appveyor.com/project/StevenGilligan/autocompare) [![codecov.io](http://codecov.io/github/StevenGilligan/AutoCompare/coverage.svg?branch=dev)](http://codecov.io/github/StevenGilligan/AutoCompare?branch=dev)
-
 AutoCompare
 ===========
 
@@ -16,11 +14,11 @@ The main goal of AutoCompare is making it easy to get differences between two ob
 How to use AutoCompare in your project
 --------------------------------------
 
-Include [AutoCompare](https://www.nuget.org/packages/AutoCompare/) in your project using [NuGet](https://www.nuget.org/)
+Include [AutoCompare](https://www.nuget.org/packages/AutoCompare.Core/) in your project using [NuGet](https://www.nuget.org/)
 
 From the package manager console : 
 
-    PM> Install-Package AutoCompare
+    PM> Install-Package AutoCompare.Core
 
 Features
 --------
@@ -69,4 +67,4 @@ More examples can be found in AutoCompare.Tests
 Licence
 -------
 
-AutoCompare is Copyright &copy; 2015 [Steven Gilligan](http://steven.gilligan.io) and other contributors under the [Apache 2.0 license](LICENSE.txt).
+AutoCompare is Copyright &copy; 2017- other contributors under the [Apache 2.0 license](LICENSE.txt).
