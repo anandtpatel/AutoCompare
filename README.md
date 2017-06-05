@@ -4,7 +4,7 @@ AutoCompare
 What is AutoCompare?
 --------------------
 
-AutoCompare is a simple library with the goal of making it effortless to compare two objects of the same type to generate the list of modified properties.
+AutoCompare is a simple .NET Core library with the goal of making it effortless to compare two objects of the same type to generate the list of modified properties.
 
 Why use AutoCompare?
 --------------------
